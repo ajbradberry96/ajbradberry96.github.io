@@ -1,1 +1,1 @@
-A personal and professional website for me, Andrew Bradberry
+A place to put all of my projects past and present.
