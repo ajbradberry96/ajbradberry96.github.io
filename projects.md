@@ -4,7 +4,7 @@ title: Projects
 permalink: /Projects/
 ---
 
-Here you can find a collection of some of my personal/professional projects over the years. 
+Here you can find a collection of some of my projects over the years. I'm actively adding to this list as I write posts about each project and as I add more projects to my portfolio, so expect more things to show up here soon!
 
 <ul class="listing">
 {% for post in site.posts %}
@@ -14,6 +14,7 @@ Here you can find a collection of some of my personal/professional projects over
     <li class="listing-seperator">{{ y }}</li>
   {% endif %}
   <li class="listing-item">
+    <img src="{{ site.baseurl }}/{{ post.thumbnail }}"  style="width:200px;height:150px;">
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
     <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
