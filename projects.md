@@ -14,8 +14,8 @@ Here you can find a collection of some of my projects over the years. I'm active
     <li class="listing-seperator">{{ y }}</li>
   {% endif %}
   <li class="listing-item">
-    <img src="{{ site.baseurl }}/{{ post.thumbnail }}"  style="width:200px;height:150px;">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+  <a href="{{ post.url | prepend: site.baseurl }}">
+	<img src="{{ site.baseurl }}/{{ post.thumbnail }}"  	style="width:200px;height:150px;" alt="Flower"></a>    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
     <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endfor %}

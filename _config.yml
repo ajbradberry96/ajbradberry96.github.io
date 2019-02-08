@@ -1,6 +1,5 @@
 title: Andrew Bradberry
-description: Site for all projects professional and personal
-#sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
+description: 
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
