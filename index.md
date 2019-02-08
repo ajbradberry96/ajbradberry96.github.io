@@ -11,7 +11,7 @@ Hey look, this is my website where I'm going to put all my cool stuff! I couldn'
 ## Contact
 
 Location: Loveland, CO <br />
-Cell:(970)310-4604<br />
+Cell: (970)310-4604<br />
 Email: [ajbradberry96@gmail.com]
 
 [ajbradberry96@gmail.com]: mailto:ajbradberry96@gmail.com
