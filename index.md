@@ -12,6 +12,8 @@ Hey look, this is my website where I'm going to put all my cool stuff! I couldn'
 
 Location: Loveland, CO <br />
 Cell: (970)310-4604<br />
-Email: [ajbradberry96@gmail.com]
+Email: [ajbradberry96@gmail.com]<br />
+Resume: [PDF version](../images/resume_software.pdf).<br />
+Github: [github.com/ajbradberry96](http://github.com/ajbradberry96)
 
 [ajbradberry96@gmail.com]: mailto:ajbradberry96@gmail.com
