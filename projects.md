@@ -4,7 +4,7 @@ title: Projects
 permalink: /Projects/
 ---
 
-Here you can find a collection of some of my personal professional projects over the years.
+Here you can find a collection of some of my personal/professional projects over the years. 
 
 <ul class="listing">
 {% for post in site.posts %}
