@@ -4,7 +4,7 @@ title: "Deep Q-Learning with the Game Boy Advance"
 description: "Implementing deep Q-learning on the Bizhawk emulator for use with any GBA game."
 categories: ["Machine Learning", "AI", "Software", "Video Games"]
 location: "Ruston, LA"
-thumbnail: images/gba_dqn/thumbnail.PNG
+thumbnail: images/gba_dqn/thumbnail.png
 ---
 
 
