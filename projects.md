@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /Projects/
+permalink: /projects/
 ---
 
 Here you can find a collection of some of my projects over the years. I'm actively adding to this list as I write posts about each project and as I add more projects to my portfolio, so expect more things to show up here soon!

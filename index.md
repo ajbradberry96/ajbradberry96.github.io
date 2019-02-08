@@ -8,11 +8,15 @@ permalink: /
 
 Hello!<br />
 
-My name is Andrew Bradberry and I am a Senior Cyber Engineering student at Louisiana Tech University, due for graduation this upcoming May.<br />
+My name is Andrew Bradberry and I am a Senior Cyber Engineering (with minors in Computer Science and Mathematics) student at Louisiana Tech University, due for graduation this upcoming May.<br />
 
-Currently, I am seeking a full-time Software Engineering position, ideally in the realm of Data Science. I am fascinated with all things related to machine learning and am very excited about the opportunity to apply all the things I've learned at a professional level. That said, I'm a sucker for any project with interesting people doing interesting things, so I'd also be happy to do anything as long as I can find an environment like that! <br />
+Currently, I am seeking a full-time Software Engineering position. I'm a sucker for any project with interesting people doing interesting things, so I'd be happy work anywhere as long as I can find an environment like that! I have extensive experience working with Python and Java, as well as exposure to C#, C++, C, Lua, SQL, and etc.<br />
 
-I have several personal projects in various states of completion you can find [here](../Projects/). If you're looking for some other interesting things about me, you can check out other fun things going on in my life [here](../misc).
+My personal projects have tended to be in the realm of Data Science lately. I am fascinated with all things related to machine learning, and so the opportunity to apply all the things I've learned at a professional level is particularly exciting.<br />
+
+I have several personal projects in various states of completion you can find [here](../Projects/).<br />
+
+ If you're looking for some other interesting things about me, you can check out other fun things going on in my life [here](../misc).
 
 ## Contact
 
