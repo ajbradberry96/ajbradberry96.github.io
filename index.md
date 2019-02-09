@@ -14,7 +14,7 @@ Currently, I am seeking a full-time Software Engineering position. I'm a sucker 
 
 My personal projects have tended to be in the realm of Data Science lately. I am fascinated with all things related to machine learning, and so the opportunity to apply all the things I've learned at a professional level is particularly exciting.<br />
 
-I have several personal projects in various states of completion you can find [here](../Projects/).<br />
+I have several personal projects in various states of completion you can find [here](../projects/).<br />
 
  If you're looking for some other interesting things about me, you can check out other fun things going on in my life [here](../misc).
 
