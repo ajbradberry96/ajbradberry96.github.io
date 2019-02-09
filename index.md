@@ -4,7 +4,7 @@ title: About me
 permalink: /
 ---
 
-{% include image.html url="images/headshot.jpg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/headshot.jpg" caption="" align="right" %}
 
 Hello!<br />
 

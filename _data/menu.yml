@@ -4,7 +4,7 @@
 - title: "Fun Stuff"
   href: "/misc/"
   subcategories:
-    - subtitle: "Item 1"
-      subhref: "/misc/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/misc/item-2/"
+    - subtitle: "Music"
+      subhref: "/misc/music/"
+    - subtitle: "Video Games"
+      subhref: "/misc/games/"

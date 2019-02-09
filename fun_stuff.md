@@ -4,27 +4,15 @@ title: Fun Stuff
 permalink: /misc/
 ---
 
-## Music
-This is the place where I'm gonna mention all sorts of music stuff. Eventually, this will link to a dedicated music page that's gonna have posts and thumbnails and things
+## Music Stuff
+I've been passionate about music for as long as I remember. With a Dad like I had, who was a music teacher that had a nightly jam session on our upright piano at home, it was hard not to be. I have been in jazz bands and orchestras and choirs and rock bands since I was in 5th Grade, and I hope I'll continue to be for a long time. <br /> 
 
-### Kimera
-Hey, I'm in a band, isn't that coolio?
+[Here's](/misc/music) a collection of some of the music projects I have going on right now.
 
-### Compositions
-Hey, I've written some music, it's aight
+## Video Game Stuff
+I spent the Summer of 2018 in Rochester, NY freelancing, rock climbing, and having entirely too much free time. Since I'd always been interested in playing video games (raised a Nintendo fanboy, but these days more of an indie fella), I decided to learn how to make games using the [Unity game engine](https://unity3d.com/). I participated in a few game jams, where you make games over a **very** short period of time. You can find some of the games I've made [here.](/misc/games/)
 
-#### Sleepy time stuff
-Experimental channel, going to work on this more when I have time
+## Fitness-related Stuff
+When I was a kid, I was **always** involved in one sport or another. In fact, I ended up running track (the 100m, 200m, and 400m) at Louisiana Tech for my Freshman and Sophomore years. <br />
 
-## Game Jams
-Low-quality games quickly in Unity ayy. Eventually, this will link to a dedicated game page that's gonna have posts and thumbnails and things.
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-
-## Fitness-related stuff
-I like to stay fit in interesting ways ayy
-
-### Running
-Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam 
-
-### Rock climbing
-nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud 
+I'm always up for a game of pickup anything really or hiking or rock climbing or anything interesting really. HMU if you're tryna go outside and sweat a little bit.  
