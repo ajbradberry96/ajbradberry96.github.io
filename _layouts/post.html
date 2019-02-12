@@ -4,8 +4,6 @@ layout: default
 <div class="post">
     <header class="post-header">
     <h1>{{ page.title }}</h1>
-	
-	<img src="{{ site.baseurl}}/{{ page.thumbnail }}" align="center"/><br><br>
 
 
     <p class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} {% if page.author %}by {{ page.author }}{{% else %}}{% if site.author.name %}by {{ site.author.name }}{% endif %}{% endif %}{% if page.location %} ({{ page.location }}{% endif %})</p>
