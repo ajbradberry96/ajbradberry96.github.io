@@ -7,6 +7,8 @@ location: "Ruston, LA"
 thumbnail: images/truss/truss-model.jpg
 ---
 <br />
+{% include image.html url="{{../../../../../../images/truss/pot-trusses.jpg" caption="Three potential truss configurations for this competition. Can you guess which one would perform best?" width="800px" align="center" %} <br />
+
 You can find the source code for this project on GitHub [here.](https://github.com/ajbradberry96/genetic-truss-generation)
 
 ## What are Genetic Algorithms?
@@ -157,7 +159,7 @@ My first generation of trusses ended up looking like this, with the left truss b
 
 {% include image.html url="{{../../../../../../images/truss/Gen-1.png" caption="The first generation of trusses." width="800px" align="center" %} <br />
 
-The best truss here has a theoretical performance ratio of 1038. This would have likely won the competittion as it was, as the typical winners usually scored around 600. However, this theoretical performance ratio was **very** optimistic, as my model didn't take into consideration factors like [stress concentrations](https://en.wikipedia.org/wiki/Stress_concentration) (which I would have loved to incorporate into my model, but unforunately we didn't learn this concept until after the competition was well under way), and certain constraints at each joint (a topic I will revisit in a moment).
+The best truss here has a theoretical performance ratio of 1038. This would have likely won the competition as it was, as the typical winners usually scored around 600. However, this theoretical performance ratio was **very** optimistic, as my model didn't take into consideration factors like [stress concentrations](https://en.wikipedia.org/wiki/Stress_concentration) (which I would have loved to incorporate into my model, but unforunately we didn't learn this concept until after the competition was well under way), and certain constraints at each joint (a topic I will revisit in a moment).
 
 Let's skip forward to Generation 13:
 
@@ -179,7 +181,6 @@ The next step was to take this solution, along with its very attractive performa
 The first thing I had to do was fix those issues with the joints I mentioned earlier. What I mean by "joint constraints" is that at each joint, box-shaped members had to be able to fit neatly inside one another like so:
 
 
-{% include image.html url="{{../../../../../../images/truss/joint-issues-1.png" caption="" width="400px" align="center" %} <br />
 {% include image.html url="{{../../../../../../images/truss/joint-issues-2.png" caption="Members had to fit together on a joint like so." width="400px" align="center" %} <br />
 
 This meant that I had to go through each joint and slightly modify each member attached to that joint so that all of them would fit nicely together. As this process slightly reduced the theoretical strength of the truss, our new optimal performance ratio was about 1,400, still nothing to sneeze at.
