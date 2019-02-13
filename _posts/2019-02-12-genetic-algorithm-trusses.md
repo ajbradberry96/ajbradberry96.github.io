@@ -231,3 +231,8 @@ If I ever were to revisit this model, I would
 And above all...
 
 - USE MORE GLUE
+
+*****
+Questions? Comments? Feel free to email me at [andrew@ajbradberry.com]
+
+[andrew@ajbradberry.com]: mailto:andrew@ajbradberry.com
