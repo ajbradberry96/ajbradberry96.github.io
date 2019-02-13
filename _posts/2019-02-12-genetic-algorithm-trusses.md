@@ -159,7 +159,7 @@ My first generation of trusses ended up looking like this, with the left truss b
 
 {% include image.html url="{{../../../../../../images/truss/Gen-1.png" caption="The first generation of trusses." width="800px" align="center" %} <br />
 
-The best truss here has a theoretical performance ratio of 1038. This would have likely won the competittion as it was, as the typical winners usually scored around 600. However, this theoretical performance ratio was **very** optimistic, as my model didn't take into consideration factors like [stress concentrations](https://en.wikipedia.org/wiki/Stress_concentration) (which I would have loved to incorporate into my model, but unforunately we didn't learn this concept until after the competition was well under way), and certain constraints at each joint (a topic I will revisit in a moment).
+The best truss here has a theoretical performance ratio of 1038. This would have likely won the competition as it was, as the typical winners usually scored around 600. However, this theoretical performance ratio was **very** optimistic, as my model didn't take into consideration factors like [stress concentrations](https://en.wikipedia.org/wiki/Stress_concentration) (which I would have loved to incorporate into my model, but unforunately we didn't learn this concept until after the competition was well under way), and certain constraints at each joint (a topic I will revisit in a moment).
 
 Let's skip forward to Generation 13:
 
