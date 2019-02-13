@@ -4,7 +4,7 @@ title: "Using Genetic Algorithms to Design Stronger Trusses"
 description: "Implementing a Genetic Algorithm to optimize the design of simple trusses."
 categories: ["Machine Learning", "AI", "Truss", "Statics", "Genetic Algorithm"]
 location: "Ruston, LA"
-thumbnail: images/truss/truss_model.jpg
+thumbnail: images/truss/truss-model.jpg
 ---
 <br />
 You can find the source code for this project on GitHub [here.](https://github.com/ajbradberry96/genetic-truss-generation)
