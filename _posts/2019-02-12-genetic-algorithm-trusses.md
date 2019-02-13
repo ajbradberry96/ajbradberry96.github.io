@@ -6,7 +6,9 @@ categories: ["Machine Learning", "AI", "Truss", "Statics", "Genetic Algorithm"]
 location: "Ruston, LA"
 thumbnail: images/truss/truss-model.jpg
 ---
-<br />{% include image.html url="{{../../../../../../images/truss/pot-trusses.jpg" caption="Three potential truss configurations for this competition. Can you guess which one would perform best?" width="800px" align="center" %} <br />
+<br />
+{% include image.html url="{{../../../../../../images/truss/pot-trusses.jpg" caption="Three potential truss configurations for this competition. Can you guess which one would perform best?" width="800px" align="center" %} <br />
+
 You can find the source code for this project on GitHub [here.](https://github.com/ajbradberry96/genetic-truss-generation)
 
 ## What are Genetic Algorithms?
