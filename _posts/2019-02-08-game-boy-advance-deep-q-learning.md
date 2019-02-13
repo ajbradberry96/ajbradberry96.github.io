@@ -13,3 +13,8 @@ This is a project that I am currently working on! The goal is to create a bot th
 After I get this working, I plan on doing a full write-up that you'll be able to find here.
 
 You can check out the current state of this project [here.](https://github.com/ajbradberry96/GBA-DQN) 
+
+*****
+Questions? Comments? Feel free to email me at [andrew@ajbradberry.com]
+
+[andrew@ajbradberry.com]: mailto:andrew@ajbradberry.com
