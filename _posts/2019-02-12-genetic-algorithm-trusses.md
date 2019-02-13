@@ -179,7 +179,6 @@ The next step was to take this solution, along with its very attractive performa
 The first thing I had to do was fix those issues with the joints I mentioned earlier. What I mean by "joint constraints" is that at each joint, box-shaped members had to be able to fit neatly inside one another like so:
 
 
-{% include image.html url="{{../../../../../../images/truss/joint-issues-1.png" caption="" width="400px" align="center" %} <br />
 {% include image.html url="{{../../../../../../images/truss/joint-issues-2.png" caption="Members had to fit together on a joint like so." width="400px" align="center" %} <br />
 
 This meant that I had to go through each joint and slightly modify each member attached to that joint so that all of them would fit nicely together. As this process slightly reduced the theoretical strength of the truss, our new optimal performance ratio was about 1,400, still nothing to sneeze at.
