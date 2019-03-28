@@ -27,4 +27,4 @@ Email: [andrew@ajbradberry.com]<br />
 [GitHub](http://github.com/ajbradberry96)<br />
 [LinkedIn](https://www.linkedin.com/in/andrew-bradberry-b6223913b/)
 
-[andrew@ajbradberry.com]: mailto:andrew@ajbradberry.com
+[ajbradberry96@gmail.com]: mailto:ajbradberry96@gmail.com
