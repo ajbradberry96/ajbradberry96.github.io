@@ -233,6 +233,6 @@ And above all...
 - USE MORE GLUE
 
 *****
-Questions? Comments? Feel free to email me at [andrew@ajbradberry.com]
+Questions? Comments? Feel free to email me at [ajbradberry96@gmail.com]
 
-[andrew@ajbradberry.com]: mailto:andrew@ajbradberry.com
+[ajbradberry96@gmail.com]: mailto:ajbradberry96@gmail.com
