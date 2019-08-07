@@ -6,11 +6,12 @@
 </div>
 <script>
 	let canvas = document.querySelector("canvas");
-	console.log(canvas.width + " " + canvas.height)
 	let cx = canvas.getContext("2d");
+	cx.canvas.width  = window.innerWidth;
+    cx.canvas.height = window.innerHeight;
 	
 	cx.fillStyle = "#000000";
-	cx.fillRect(0, 0, 2000, 2000);
+	cx.fillRect(0, 0, window.innerWidth, window.innerHeight);
 		
 	let rho = 55;
 	let beta = 8/3;
@@ -22,6 +23,10 @@
 	let t = 0;
 	
 	let scale = 8;
+	
+	let deltaT = 0.00005;
+	let msPerStep = 1;
+	let updatesPerStep = 8;
 	
 	function hslToHex(h, s, l) {
 	  h /= 360;
@@ -61,12 +66,10 @@
 		cx.fillStyle = hslToHex(t % 360, 100, 50);
 		//cx.fillStyle = hslToHex(z * scale / 3 % 360, 100, 50);
 		cx.fillRect(canvas.width / 2 + z * x / y * scale, canvas.height / 2 + y * scale, 1, 1);
-		console.log(x + " " + y);
 	}
 	
-	let deltaT = 0.0005;
-	let msPerStep = 1;
-
-	setInterval(function() {update(deltaT);}, msPerStep);
+	for (let i = 0; i < updatesPerStep; i++) {
+		setInterval(function() {update(deltaT);}, msPerStep);
+	}
 </script>
 </body></html>
