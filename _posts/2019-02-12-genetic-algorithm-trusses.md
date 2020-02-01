@@ -226,7 +226,7 @@ If I ever were to revisit this model, I would
 
 - Investigate hyperparameters more, doing things like messing with population size, mutation rate, etc.
 
-- Incorporate joint constraints and stress concentraions into the model.
+- Incorporate joint constraints and stress concentrations into the model.
 
 And above all...
 
